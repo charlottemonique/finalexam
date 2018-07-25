@@ -30,7 +30,7 @@
     "id": 205,
     "name": "Banaue Rice Terraces, Ifugao",
     "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/banaue.jpg",
-    "price": 250,
+    "price": 205,
     "priceCurrency": "km",
     "lat": 16.9240,
     "lng": 121.0556
@@ -39,7 +39,7 @@
     "id": 210,
     "name": "El Nido, Palawan",
     "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/elnido.jpg",
-    "price": 0,
+    "price": 895,
     "priceCurrency": "km",
     "lat": 11.2097,
     "lng": 119.4623
@@ -48,7 +48,7 @@
     "id": 211,
     "name": "Cebu City",
     "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/cebu.jpg",
-    "price": 0,
+    "price": 1110,
     "priceCurrency": "km",
     "lat": 10.3157,
     "lng": 123.8854
@@ -57,7 +57,7 @@
     "id": 212,
     "name": "Boracay, Aklan",
     "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/boracay.jpg",
-    "price": 150,
+    "price": 721,
     "priceCurrency": "km",
     "lat": 11.9674,
     "lng": 121.9248
@@ -66,16 +66,16 @@
     "id": 215,
     "name": "Tagaytay",
     "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/tagaytay.jpg",
-    "price": 150,
+    "price": 349,
     "priceCurrency": "km",
     "lat": 14.1153,
     "lng": 120.9621
   },
   {
     "id": 170,
-    "name": "Vigan",
+    "name": "Vigan City, Ilocos Sur",
     "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/vigan.jpg",
-    "price": 0,
+    "price": 132,
     "priceCurrency": "km",
     "lat": 17.5705,
     "lng": 120.3873
@@ -84,7 +84,7 @@
     "id": 30,
     "name": "Siquijor",
     "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/siquijor.jpg",
-    "price": 200,
+    "price": 1251,
     "priceCurrency": "km",
     "lat": 9.1999,
     "lng": 123.5952
@@ -93,7 +93,7 @@
     "id": 55,
     "name": "Mount Pulag, Luzon",
     "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/mtpulag.jpg",
-    "price": 200,
+    "price": 137,
     "priceCurrency": "km",
     "lat": 16.5975,
     "lng": 120.8992
@@ -102,7 +102,7 @@
     "id": 93,
     "name": "Bohol",
     "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/bohol.jpg",
-    "price": 200,
+    "price": 1198,
     "priceCurrency": "km",
     "lat": 9.8500,
     "lng": 124.1435
