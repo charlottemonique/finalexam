@@ -2,7 +2,7 @@
   {
     "id": 145,
     "name": "Huma Island, Palawan",
-    "imageUrl": "https://raw.github.com/charlottemonique/finalexam/blob/master/huma.jpg",
+    "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/huma.jpg?raw=true",
     "price": 761,
     "priceCurrency": "km",
     "lat": 12.0537,
@@ -11,7 +11,7 @@
   {
     "id": 148,
     "name": "Camiguin Island",
-    "imageUrl": "https://raw.github.com/charlottemonique/finalexam/blob/master/camiguin.jpg",
+    "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/camiguin.jpg?raw=true",
     "price": 1331,
     "priceCurrency": "km",
     "lat": 9.1732,
@@ -21,7 +21,7 @@
     "id": 201,
     "name": "Coron, Palawan",
      "price": 711,
-    "imageUrl": "https://raw.github.com/charlottemonique/finalexam/blob/master/coron.jpg",
+    "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/coron.jpg?raw=true",
     "priceCurrency": "km",
     "lat": 12.0499,
     "lng": 120.1782
@@ -38,7 +38,7 @@
   {
     "id": 210,
     "name": "El Nido, Palawan",
-    "imageUrl": "https://raw.github.com/charlottemonique/finalexam/blob/master/elnido.jpg",
+    "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/elnido.jpg?raw=true",
     "price": 895,
     "priceCurrency": "km",
     "lat": 11.2097,
@@ -47,7 +47,7 @@
   {
     "id": 211,
     "name": "Cebu City",
-    "imageUrl": "https://raw.github.com/charlottemonique/finalexam/blob/master/cebu.jpg",
+    "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/cebu.jpg?raw=true",
     "price": 1110,
     "priceCurrency": "km",
     "lat": 10.3157,
@@ -56,7 +56,7 @@
   {
     "id": 212,
     "name": "Boracay, Aklan",
-    "imageUrl": "https://raw.github.com/charlottemonique/finalexam/blob/master/boracay.jpg",
+    "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/boracay.jpg?raw=true",
     "price": 721,
     "priceCurrency": "km",
     "lat": 11.9674,
@@ -65,7 +65,7 @@
   {
     "id": 215,
     "name": "Tagaytay",
-    "imageUrl": "https://raw.github.com/charlottemonique/finalexam/blob/master/tagaytay.jpg",
+    "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/tagaytay.jpg?raw=true",
     "price": 349,
     "priceCurrency": "km",
     "lat": 14.1153,
@@ -74,7 +74,7 @@
   {
     "id": 170,
     "name": "Vigan City, Ilocos Sur",
-    "imageUrl": "https://raw.github.com/charlottemonique/finalexam/blob/master/vigan.jpg",
+    "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/vigan.jpg?raw=true",
     "price": 132,
     "priceCurrency": "km",
     "lat": 17.5705,
@@ -92,7 +92,7 @@
   {
     "id": 55,
     "name": "Mount Pulag, Luzon",
-    "imageUrl": "https://raw.github.com/charlottemonique/finalexam/blob/master/mtpulag.jpg",
+    "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/mtpulag.jpg?raw=true",
     "price": 137,
     "priceCurrency": "km",
     "lat": 16.5975,
@@ -101,7 +101,7 @@
   {
     "id": 93,
     "name": "Bohol",
-    "imageUrl": "https://raw.github.com/charlottemonique/finalexam/blob/master/bohol.jpg",
+    "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/bohol.jpg?raw=true",
     "price": 1198,
     "priceCurrency": "km",
     "lat": 9.8500,
@@ -110,7 +110,7 @@
   {
     "id": 39,
     "name": "MY HOME ADDRESS",
-    "imageUrl": "https://raw.github.com/charlottemonique/finalexam/blob/master/sj.jpg",
+    "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/sj.jpg?raw=true",
     "lat": 16.6720,
     "lng": 120.3628
   }
