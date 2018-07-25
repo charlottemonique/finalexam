@@ -1,0 +1,117 @@
+[
+  {
+    "id": 145,
+    "name": "Huma Island, Palawan",
+    "imageUrl": "https://raw.github.com/charlottemonique/finalexam/master/huma.jpg",
+    "price": 20,
+    "priceCurrency": "₱",
+    "lat": 12.0537,
+    "lng": 119.9023
+  },
+  {
+    "id": 148,
+    "name": "Camiguin Island",
+    "imageUrl": "https://raw.github.com/charlottemonique/finalexam/master/camiguin.jpg",
+    "price": 00,
+    "priceCurrency": "₱",
+    "lat": 9.1732,
+    "lng": 124.7299
+  },
+  {
+    "id": 201,
+    "name": "Coron, Palawan",
+     "price": 10,
+    "imageUrl": "https://raw.github.com/charlottemonique/act3/master/coron.jpg",
+    "priceCurrency": "₱",
+    "lat": 12.0499,
+    "lng": 120.1782
+  },
+  {
+    "id": 205,
+    "name": "Batanes",
+    "imageUrl": "https://raw.github.com/charlottemonique/finalexam/master/batanes.jpg",
+    "price": 250,
+    "priceCurrency": "₱",
+    "lat": 20.4485,
+    "lng": 121.9708
+  },
+  {
+    "id": 210,
+    "name": "El Nido, Palawan",
+    "imageUrl": "https://raw.github.com/charlottemonique/finalexam/master/elnido.jpg",
+    "price": 0,
+    "priceCurrency": "₱",
+    "lat": 11.2097,
+    "lng": 119.4623
+  },
+  {
+    "id": 211,
+    "name": "Cebu City",
+    "imageUrl": "https://raw.github.com/charlottemonique/act3/master/cebu.jpg",
+    "price": 0,
+    "priceCurrency": "₱",
+    "lat": 10.3157,
+    "lng": 123.8854
+  },
+  {
+    "id": 212,
+    "name": "Boracay, Aklan",
+    "imageUrl": "https://raw.github.com/charlottemonique/act3/master/boracay.jpg",
+    "price": 150,
+    "priceCurrency": "₱",
+    "lat": 11.9674,
+    "lng": 121.9248
+  },
+  {
+    "id": 215,
+    "name": "Tagaytay",
+    "imageUrl": "https://raw.github.com/charlottemonique/act3/master/tagaytay.jpg",
+    "price": 150,
+    "priceCurrency": "₱",
+    "lat": 14.1153,
+    "lng": 120.9621
+  },
+  {
+    "id": 170,
+    "name": "Vigan",
+    "imageUrl": "https://raw.github.com/charlottemonique/act3/blob/master/vigan.jpg",
+    "price": 0,
+    "priceCurrency": "₱",
+    "lat": 17.5705,
+    "lng": 120.3873
+  },
+  {
+    "id": 30,
+    "name": "Siquijor",
+    "imageUrl": "https://raw.github.com/charlottemonique/act3/master/pugad.jpg",
+    "price": 200,
+    "priceCurrency": "₱",
+    "lat": 9.1999,
+    "lng": 123.5952
+  },
+  {
+    "id": 55,
+    "name": "Mount Pulag, Luzon",
+    "imageUrl": "https://raw.github.com/charlottemonique/act3/master/pugad.jpg",
+    "price": 200,
+    "priceCurrency": "₱",
+    "lat": 16.5975,
+    "lng": 120.8992
+  },
+  {
+    "id": 93,
+    "name": "Bohol",
+    "imageUrl": "https://raw.github.com/charlottemonique/act3/master/pugad.jpg",
+    "price": 200,
+    "priceCurrency": "₱",
+    "lat": 9.8500,
+    "lng": 124.1435
+  },
+  {
+    "id": 39,
+    "name": "MY HOME ADDRESS",
+    "imageUrl": "https://raw.github.com/charlottemonique/act3/master/sj.jpg",
+    "lat": 16.6720,
+    "lng": 120.3628
+  }
+]
