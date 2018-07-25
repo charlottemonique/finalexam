@@ -3,7 +3,7 @@
     "id": 145,
     "name": "Huma Island, Palawan",
     "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/huma.jpg",
-    "price": 20,
+    "price": 761,
     "priceCurrency": "km",
     "lat": 12.0537,
     "lng": 119.9023
@@ -12,7 +12,7 @@
     "id": 148,
     "name": "Camiguin Island",
     "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/camiguin.jpg",
-    "price": 00,
+    "price": 1,331,
     "priceCurrency": "km",
     "lat": 9.1732,
     "lng": 124.7299
@@ -20,7 +20,7 @@
   {
     "id": 201,
     "name": "Coron, Palawan",
-     "price": 10,
+     "price": 711,
     "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/coron.jpg",
     "priceCurrency": "km",
     "lat": 12.0499,
@@ -28,12 +28,12 @@
   },
   {
     "id": 205,
-    "name": "Batanes",
-    "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/batanes.jpg",
+    "name": "Banaue Rice Terraces, Ifugao",
+    "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/banaue.jpg",
     "price": 250,
     "priceCurrency": "km",
-    "lat": 20.4485,
-    "lng": 121.9708
+    "lat": 16.9240,
+    "lng": 121.0556
   },
   {
     "id": 210,
