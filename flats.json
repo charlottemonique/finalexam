@@ -4,7 +4,7 @@
     "name": "Huma Island, Palawan",
     "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/huma.jpg",
     "price": 20,
-    "priceCurrency": "₱",
+    "priceCurrency": "km",
     "lat": 12.0537,
     "lng": 119.9023
   },
@@ -13,7 +13,7 @@
     "name": "Camiguin Island",
     "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/camiguin.jpg",
     "price": 00,
-    "priceCurrency": "₱",
+    "priceCurrency": "km",
     "lat": 9.1732,
     "lng": 124.7299
   },
@@ -22,7 +22,7 @@
     "name": "Coron, Palawan",
      "price": 10,
     "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/coron.jpg",
-    "priceCurrency": "₱",
+    "priceCurrency": "km",
     "lat": 12.0499,
     "lng": 120.1782
   },
@@ -31,7 +31,7 @@
     "name": "Batanes",
     "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/batanes.jpg",
     "price": 250,
-    "priceCurrency": "₱",
+    "priceCurrency": "km",
     "lat": 20.4485,
     "lng": 121.9708
   },
@@ -40,7 +40,7 @@
     "name": "El Nido, Palawan",
     "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/elnido.jpg",
     "price": 0,
-    "priceCurrency": "₱",
+    "priceCurrency": "km",
     "lat": 11.2097,
     "lng": 119.4623
   },
@@ -49,7 +49,7 @@
     "name": "Cebu City",
     "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/cebu.jpg",
     "price": 0,
-    "priceCurrency": "₱",
+    "priceCurrency": "km",
     "lat": 10.3157,
     "lng": 123.8854
   },
@@ -58,7 +58,7 @@
     "name": "Boracay, Aklan",
     "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/boracay.jpg",
     "price": 150,
-    "priceCurrency": "₱",
+    "priceCurrency": "km",
     "lat": 11.9674,
     "lng": 121.9248
   },
@@ -67,7 +67,7 @@
     "name": "Tagaytay",
     "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/tagaytay.jpg",
     "price": 150,
-    "priceCurrency": "₱",
+    "priceCurrency": "km",
     "lat": 14.1153,
     "lng": 120.9621
   },
@@ -76,7 +76,7 @@
     "name": "Vigan",
     "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/vigan.jpg",
     "price": 0,
-    "priceCurrency": "₱",
+    "priceCurrency": "km",
     "lat": 17.5705,
     "lng": 120.3873
   },
@@ -85,7 +85,7 @@
     "name": "Siquijor",
     "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/siquijor.jpg",
     "price": 200,
-    "priceCurrency": "₱",
+    "priceCurrency": "km",
     "lat": 9.1999,
     "lng": 123.5952
   },
@@ -94,7 +94,7 @@
     "name": "Mount Pulag, Luzon",
     "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/mtpulag.jpg",
     "price": 200,
-    "priceCurrency": "₱",
+    "priceCurrency": "km",
     "lat": 16.5975,
     "lng": 120.8992
   },
@@ -103,7 +103,7 @@
     "name": "Bohol",
     "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/bohol.jpg",
     "price": 200,
-    "priceCurrency": "₱",
+    "priceCurrency": "km",
     "lat": 9.8500,
     "lng": 124.1435
   },
