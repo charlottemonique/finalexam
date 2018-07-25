@@ -29,7 +29,7 @@
   {
     "id": 205,
     "name": "Banaue Rice Terraces, Ifugao",
-    "imageUrl": "https://raw.github.com/charlottemonique/finalexam/blob/master/banaue.jpg",
+    "imageUrl": "https://github.com/charlottemonique/finalexam/blob/master/banaue.jpg?raw=true",
     "price": 205,
     "priceCurrency": "km",
     "lat": 16.9240,
